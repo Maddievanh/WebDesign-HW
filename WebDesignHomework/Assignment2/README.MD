@@ -1,5 +1,5 @@
 # EditREADME
 
-## Heading 2
+## Second Heading
 
-#### Heading 4
+#### Fourth Heading
