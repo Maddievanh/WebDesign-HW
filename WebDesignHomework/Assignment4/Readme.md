@@ -18,4 +18,4 @@
 - Use lower case letters
 - No special Characters
 - Be brief
-- C0nsistent naming
+- Consistent naming
